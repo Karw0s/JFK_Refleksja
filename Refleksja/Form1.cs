@@ -36,9 +36,9 @@ namespace Refleksja
                 }
                 
 
-                foreach (var methot in list)
+                foreach (var method in list)
                 {                    
-                    this.comboBox1.Items.Add(methot);
+                    this.comboBox1.Items.Add(method);
                 }
             }
         }
